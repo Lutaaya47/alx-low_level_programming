@@ -3,7 +3,6 @@
  * main - A program thathas the ability to priint various computer types
  * Return: 0 (Worked)
  */
-
 int main(void)
 {
 	char a;
