@@ -2,7 +2,7 @@
 
 /**
  * main - A program that has the ability to print a line to the standard error
- * Return 1 (Worked and so there is an error)
+ * Return: 1 (Worked and so there is an error)
  */
 int main(void)
 {
