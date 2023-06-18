@@ -13,6 +13,6 @@ char alp[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	{
 		putchar(alp[i]);
 	}
-	puchar('\n')
+	putchar('\n');
 	return (0);
 }
