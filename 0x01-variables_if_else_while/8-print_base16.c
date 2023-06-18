@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - prints numbers from 0 to 9 and letters a to f
  * Return: 0(Worked)
@@ -12,7 +11,7 @@ int main(void)
 	{
 		putchar(i);
 	}
-	for (i = 97; i< 103; i++)
+	for (i = 97; i < 103; i++)
 	{
 		putchar(i);
 	}
